@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🙂 I'm Ruiji Yu / Ricky Yu
 
-🚀 I'm a college student from Nanjing University, china
+🚀 I'm a college student from Nanjing University, China
 
 🔭 Here's my previous coding practice
 - A basic webPos based on Springboot, using microservice architecture, and improved by responsive webFlux: [Link](https://github.com/Ricky-Daxia/Software-Architecture-2024)
