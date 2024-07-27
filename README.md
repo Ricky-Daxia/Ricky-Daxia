@@ -27,5 +27,6 @@ Here are some ideas to get you started:
 - NJU OSLab 2023(Lilith's version): Not shown due to academic integrity
 - NJU ICS-PA 2022: [Not shown due to academic integrity](https://github.com/ics-nju-wl/icspa-public)
 - A tiny tower-defense game inspired by PvZ, written with qt: [Link](https://github.com/Ricky-Daxia/tower-defense)
+- A command line products tading platform written in C++: [Link](https://github.com/Ricky-Daxia/command-line-trading-platform)
 
 📫 How to reach me: 1915754435@qq.com or f7478d8a00b44e47@gmail.com
