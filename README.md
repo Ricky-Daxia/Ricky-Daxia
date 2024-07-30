@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 🚀 I'm a college student from Nanjing University, China
 
 🔭 Here's my previous coding practice
-- A basic webPos based on Springboot, using microservice architecture, and improved by responsive webFlux: [Link](https://github.com/Ricky-Daxia/Software-Architecture-2024)
+- A basic webPos backend system based on Springboot, using microservice architecture, and improved by responsive webFlux: [Link](https://github.com/Ricky-Daxia/Software-Architecture-2024)
   - Uses Spring batch to process Amazon dataset, which is used as project data: [Link](https://github.com/Ricky-Daxia/SpringBatch-for-bigdata)
 - A multiplayer battle tiny-game written in Java: [Link](https://github.com/Ricky-Daxia/java-tiny-game/tree/j10)
 - An small iOS app: [Calcudoku](https://github.com/Ricky-Daxia/calcudoku-promax)
