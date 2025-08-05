@@ -29,4 +29,8 @@ Here are some ideas to get you started:
 - A tiny tower-defense game inspired by PvZ, written with qt: [Link](https://github.com/Ricky-Daxia/tower-defense)
 - A command line products tading platform written in C++: [Link](https://github.com/Ricky-Daxia/command-line-trading-platform)
 
-📫 How to reach me: 1915754435@qq.com or f7478d8a00b44e47@gmail.com
+🎈 Currently working on:
+- Rust
+- rk8s([A Lite Version of Kubernetes in Rust](https://github.com/r2cn-dev/rk8s))
+
+📫 How to reach me: 1915754435@qq.com or rickyyu7230@gmail.com
